@@ -24,7 +24,7 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 ### Screenshot
-![screenshot](./Screen_Shot_2024-02-15_at_14.05.41.png)
+![screenshot](./Screen%20Shot%202024-02-15%20at%2014.05.41.png)
 
 ### Links
 
